@@ -1,6 +1,5 @@
 package com.ankit.userservice.userservice.service;
 
-import com.ankit.userservice.userservice.PaymentServiceConfig;
 import com.ankit.userservice.userservice.dto.PaymentInfoDTO;
 import com.ankit.userservice.userservice.model.User;
 import com.ankit.userservice.userservice.repository.UserRepository;
