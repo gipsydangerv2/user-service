@@ -1,0 +1,13 @@
+
+server:
+  port: 8082
+
+logging:
+  level:
+    root: debug
+
+
+payment-service:
+  basePath: localhost:8083/api/v1/payments
+  userPaymentApi: /allPaymentInfo
+  allUsersPaymentApi: /allPaymentInfo
